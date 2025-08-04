@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# give the whole report
-
-Here’s a complete `report.md` for your Ayna ML assignment. Please fill in your GitHub and Colab/Kaggle notebook links where indicated:
-
 # Ayna ML Intern Assignment Report
 
 ## Problem Statement
@@ -79,16 +73,5 @@ Train a conditional UNet model to generate colored polygon images, taking as inp
 ## Links
 
 - **Wandb Project:** https://wandb.ai/venkatasaiakash-arvapalli-mahindra-university/aynapolygon-unet
-- **GitHub Repo:** [provide your github repo URL here]
-- **Notebook Link:** [provide your Colab/Kaggle notebook link here]
-
-
-## Future Work
-
-- Explore advanced loss functions (e.g., perceptual loss, weighted losses).
-- Increase model capacity for sharper edges.
-- Explore embedding-based conditioning for color input.
-- Apply model to more complex shapes and real-world images.
-
-**Be sure to update the placeholders with your real URLs before submitting!**
-
+- **GitHub Repo:** https://github.com/AVSAkash/Target_Color_Fill_Model_Prediction
+- **Notebook Link:** https://colab.research.google.com/drive/1XG3yBH-Y0NZikjSVcg2l_9jMVHZdgoiy?usp=sharing
